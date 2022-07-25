@@ -1,5 +1,6 @@
 # GitHub API INTERFACE
-O projeto cria uma interface que consume uma api do GitHub e lista informações do perfil pesquisado, apresentando repositorios e favoritos. Segue imagem da intrface:
+
+O projeto cria uma interface que consume uma api do GitHub e lista informações do perfil pesquisado, apresentando repositórios e favoritos. Segue imagem da intrface:
 ![](public/GitHub.png)
 
 # Getting Started with Create React App
